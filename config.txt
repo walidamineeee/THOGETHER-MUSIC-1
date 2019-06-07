@@ -1,0 +1,6 @@
+owner=479960331418992650
+prefix=Tplay
+game=MUSIC TOGETHER 1
+stayinchannel=true
+songinstatus=false
+token=ZRjnM1i_Vfpr7PQTqEhRqMc0ySMMGkK8
